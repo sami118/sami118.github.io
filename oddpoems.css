@@ -1,0 +1,39 @@
+.navigation{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+li a  {
+	display: block;
+	width: 225px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	background-color: #00ccff;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+li{
+	float: left;
+}
+ul{
+	position: fixed;
+	top:0;
+	width: 100%;
+}
+#body{
+	background-color:#084c61;
+}
+#Headers{
+font-weight: bold;
+font-size: 50px;
+text-align: center;
+text-decoration: underline;
+color:#ee6055;
+}
+.poem{
+	color:#a9e5bb;
+	font-size:35px;
+	font-family:'Indie Flower', cursive;
+}
